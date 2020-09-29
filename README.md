@@ -8,8 +8,8 @@
 
 ### Journal Papers
 - Prasad, J., **Balwani, A.**, Johnson, E., Miano, J., Sampathkumar, V., De Andrade, V., ... & Dyer, E. "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity." to appear in _Nature Scientific Data_, 2020.
-- Milligan K., **Balwani A.**, Dyer E. "Brain Mapping at High Resolutions: Challenges, Opportunities." _Current Opinion in Biomedical Engineering_, 2019.
-- Lee T., Kumar A., **Balwani A.**, Brittain D., Kinn S., Tovey C., Dyer E., da Costa N., Reid R., Forest C., Bumbarger D. "Large-scale neuroanatomy using LASSO: Loop based Automated Serial Sectioning Operation." _PloS one_, 13.10, 2018.
+- Milligan K., **Balwani A.**, Dyer E. "<a href="https://github.com/AishwaryaHB/aishwaryahb.github.io/blob/master/docs/papers/Milligan_brainMapping.pdf" target="_blank">Brain Mapping at High Resolutions: Challenges, Opportunities.</a>" _Current Opinion in Biomedical Engineering_, 2019.
+- Lee T., Kumar A., **Balwani A.**, Brittain D., Kinn S., Tovey C., Dyer E., da Costa N., Reid R., Forest C., Bumbarger D. "<a href="" target="_blank">Large-scale neuroanatomy using LASSO: Loop based Automated Serial Sectioning Operation.</a>" _PloS one_, 13.10, 2018.
 
 ### Conference Papers
 - Liu, R., Subakan, C., **Balwani, A.**, Whitesell, J., Harris, J., Koyejo, S., & Dyer, E. "A generative modeling approach for interpreting population-level variability in brain structure." to appear in _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_, 2020.
