@@ -8,12 +8,12 @@
 
 ### Journal Papers
 - Prasad, J., **Balwani, A.**, Johnson, E., Miano, J., Sampathkumar, V., De Andrade, V., ... & Dyer, E. "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity." to appear in _Nature Scientific Data_, 2020.
-- Milligan K., **Balwani A.**, Dyer E. "<a href="https://github.com/AishwaryaHB/aishwaryahb.github.io/blob/master/docs/papers/Milligan_brainMapping.pdf" target="_blank">Brain Mapping at High Resolutions: Challenges, Opportunities.</a>" _Current Opinion in Biomedical Engineering_, 2019.
-- Lee T., Kumar A., **Balwani A.**, Brittain D., Kinn S., Tovey C., Dyer E., da Costa N., Reid R., Forest C., Bumbarger D. "<a href="" target="_blank">Large-scale neuroanatomy using LASSO: Loop based Automated Serial Sectioning Operation.</a>" _PloS one_, 13.10, 2018.
+- Milligan K., **Balwani A.**, Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Milligan_brainMapping.pdf" target="_blank">Brain Mapping at High Resolutions: Challenges, Opportunities.</a>" _Current Opinion in Biomedical Engineering_, 2019.
+- Lee T., Kumar A., **Balwani A.**, Brittain D., Kinn S., Tovey C., Dyer E., da Costa N., Reid R., Forest C., Bumbarger D. "<a href="https://aishwaryahb.github.io/docs/papers/TimLee_lasso.pdf" target="_blank">Large-scale neuroanatomy using LASSO: Loop based Automated Serial Sectioning Operation.</a>" _PloS one_, 13.10, 2018.
 
 ### Conference Papers
 - Liu, R., Subakan, C., **Balwani, A.**, Whitesell, J., Harris, J., Koyejo, S., & Dyer, E. "A generative modeling approach for interpreting population-level variability in brain structure." to appear in _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_, 2020.
-- **Balwani, A.**, and Dyer E. "Modeling variability in brain architecture with deep feature learning." _2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE_, 2019.
+- **Balwani, A.**, and Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Balwani_Asilomar.pdf" target="_blank">Modeling variability in brain architecture with deep feature learning.</a>" _2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE_, 2019.
 
 ### Workshop Papers & Peer-Reviewed Abstracts
 - **Balwani A.**, Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">Modeling Brain Microarchitecture with Deep Representation Learning.</a>" (Poster), _ML Interpretability for Scientific Discovery, ICML_, 2020.
