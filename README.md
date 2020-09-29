@@ -4,7 +4,7 @@
 - <a href="https://nerdslab.github.io/brainsynth/" target="_blank">BrainSynth</a>: Deep generative modeling for interpreting population-level variability in brain structure
 
 ### Preprints
-- **Balwani A.**, Dyer E. "A Deep Feature Learning Approach for Mapping the Brain’s Microarchitecture and Organization." _bioRxiv_, 2020
+- **Balwani A.**, Dyer E. "<a href="https://www.biorxiv.org/content/10.1101/2020.05.26.117473v1.full.pdf" target="_blank">A Deep Feature Learning Approach for Mapping the Brain’s Microarchitecture and Organization.</a>" _bioRxiv_, 2020
 
 ### Journal Papers
 - Prasad, J., **Balwani, A.**, Johnson, E., Miano, J., Sampathkumar, V., De Andrade, V., ... & Dyer, E. "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity." to appear in _Nature Scientific Data_, 2020.
