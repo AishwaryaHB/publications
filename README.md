@@ -13,7 +13,7 @@
 
 ### Conference Papers
 - Liu, R., Subakan, C., **Balwani, A.**, Whitesell, J., Harris, J., Koyejo, S., & Dyer, E. "A generative modeling approach for interpreting population-level variability in brain structure." to appear in _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_, 2020.
-- Balwani, A., and Dyer E. "Modeling variability in brain architecture with deep feature learning." _2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE_, 2019.
+- **Balwani, A.**, and Dyer E. "Modeling variability in brain architecture with deep feature learning." _2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE_, 2019.
 
 ### Workshop Papers & Peer-Reviewed Abstracts
 - **Balwani A.**, Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Balwani_ICML_Interpretability_Workshop_2020.pdf" target="_blank">Modeling Brain Microarchitecture with Deep Representation Learning.</a>" (Poster), _ML Interpretability for Scientific Discovery, ICML_, 2020.
