@@ -9,7 +9,7 @@
 
 ### Journal Papers
 - Prasad, J., **Balwani, A.**, Johnson, E., Miano, J., Sampathkumar, V., De Andrade, V., ... & Dyer, E. "<a href="https://aishwaryahb.github.io/docs/papers/thC_3d_sdata.pdf" target="_blank">"A three-dimensional thalamocortical dataset for characterizing brain heterogeneity.</a>" _Nature Scientific Data_, 2020.
-- Milligan K., **Balwani A.**, Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Milligan_brainMapping.pdf" target="_blank">Brain Mapping at High Resolutions: Challenges, Opportunities.</a>" _Current Opinion in Biomedical Engineering_, 2019.
+- Milligan K., **Balwani A.**, Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Milligan_brainMapping.pdf" target="_blank">Brain Mapping at High Resolutions: Challenges and Opportunities.</a>" _Current Opinion in Biomedical Engineering_, 2019.
 - Lee T., Kumar A., **Balwani A.**, Brittain D., Kinn S., Tovey C., Dyer E., da Costa N., Reid R., Forest C., Bumbarger D. "<a href="https://aishwaryahb.github.io/docs/papers/TimLee_lasso.pdf" target="_blank">Large-scale neuroanatomy using LASSO: Loop based Automated Serial Sectioning Operation.</a>" _PloS one_, 13.10, 2018.
 
 ### Conference Papers
