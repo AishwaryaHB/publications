@@ -12,7 +12,7 @@
 - Lee T., Kumar A., **Balwani A.**, Brittain D., Kinn S., Tovey C., Dyer E., da Costa N., Reid R., Forest C., Bumbarger D. "<a href="https://aishwaryahb.github.io/docs/papers/TimLee_lasso.pdf" target="_blank">Large-scale neuroanatomy using LASSO: Loop based Automated Serial Sectioning Operation.</a>" _PloS one_, 13.10, 2018.
 
 ### Conference Papers
-- **Balwani A.***, Miano J.*, Liu R., Kitchell L., Prasad J., Johnson E., Gray-Roncal W., Dyer E. “<a href="https://aishwaryahb.github.io/docs/papers/ICIP_2021___XRay_MTL.pdf" target="_blank">Multi-Scale Modeling of Neural Structure in X-ray Imagery</a>” to appear, _IEEE International Conference on Image Processing (ICIP)_, 2021.
+- **Balwani A.**$^*$, Miano J., Liu R., Kitchell L., Prasad J., Johnson E., Gray-Roncal W., Dyer E. “<a href="https://aishwaryahb.github.io/docs/papers/ICIP_2021___XRay_MTL.pdf" target="_blank">Multi-Scale Modeling of Neural Structure in X-ray Imagery</a>” to appear, _IEEE International Conference on Image Processing (ICIP)_, 2021.
 - Liu, R., Subakan, C., **Balwani, A.**, Whitesell, J., Harris, J., Koyejo, S., & Dyer, E. "<a href="https://aishwaryahb.github.io/docs/papers/Liu2020_Chapter_AGenerativeModelingApproachFor.pdf" target="_blank">A generative modeling approach for interpreting population-level variability in brain structure.</a>" _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_, 2020.
 - **Balwani, A.**, and Dyer E. "<a href="https://aishwaryahb.github.io/docs/papers/Balwani_Asilomar.pdf" target="_blank">Modeling variability in brain architecture with deep feature learning.</a>" _2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE_, 2019.
 
