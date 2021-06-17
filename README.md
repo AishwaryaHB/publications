@@ -5,7 +5,7 @@
 
 ### Preprints
 - **Balwani A.**, Dyer E. "<a href="https://www.biorxiv.org/content/10.1101/2020.05.26.117473v1.full.pdf" target="_blank">A Deep Feature Learning Approach for Mapping the Brain’s Microarchitecture and Organization.</a>" _bioRxiv_, 2020
-- Miano J., **Balwani A.**, Liu R., Kitchell L., Prasad J., Johnson E., Gray-Roncal W., Dyer E. “<a href="https://aishwaryahb.github.io/docs/papers/miano.pdf" target="_blank">Multi-Scale Modeling of Neural Structure in X-ray Imagery</a>” to appear, _IEEE International Conference on Image Processing (ICIP)_, 2021.
+- **Balwani A.**^, Miano J.^, Liu R., Kitchell L., Prasad J., Johnson E., Gray-Roncal W., Dyer E. “<a href="https://aishwaryahb.github.io/docs/papers/ICIP_2021___XRay_MTL.pdf" target="_blank">Multi-Scale Modeling of Neural Structure in X-ray Imagery</a>” to appear, _IEEE International Conference on Image Processing (ICIP)_, 2021.
 
 ### Journal Papers
 - Prasad, J., **Balwani, A.**, Johnson, E., Miano, J., Sampathkumar, V., De Andrade, V., ... & Dyer, E. "<a href="https://aishwaryahb.github.io/docs/papers/thC_3d_sdata.pdf" target="_blank">"A three-dimensional thalamocortical dataset for characterizing brain heterogeneity.</a>" _Nature Scientific Data_, 2020.
